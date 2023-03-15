@@ -1,0 +1,26 @@
+{
+  "name": "data-pool",
+  "version": "1.0.0",
+  "description": "A decentralized marketplace for data providers and consumers",
+  "main": "truffle-config.js",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.1",
+    "@truffle/hdwallet-provider": "^1.5.2"
+  },
+  "devDependencies": {
+    "@truffle/contract-schema": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yiheinchai/DataPool.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yiheinchai/DataPool/issues"
+  },
+  "homepage": "https://github.com/yiheinchai/DataPool#readme"
+}
